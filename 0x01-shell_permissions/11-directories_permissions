@@ -1,2 +1,2 @@
 #!/bin/bash
-chimo -R +x
+chimo -R +x .
